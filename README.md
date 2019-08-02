@@ -1,5 +1,6 @@
-# free-ebooks
+# Free programming books 
 
+* [Advanced Bash Scripting Guide](https://www.tldp.org/LDP/abs/html/)
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook/)
 * [Android Notes for Professionals](https://goalkicker.com/AndroidBook/)
 * [Bash Notes for Professionals](https://goalkicker.com/BashBook/)
