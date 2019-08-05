@@ -1,4 +1,4 @@
-# Free programming books 
+# Free programming books
 
 * [Advanced Bash Scripting Guide](https://www.tldp.org/LDP/abs/html/)
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook/)
@@ -11,3 +11,4 @@
 * [Learning Bash](https://riptutorial.com/ebook/bash)
 * [Linux Notes for Professionals](https://goalkicker.com/LinuxBook/)
 * [Python Notes for Professionals](https://goalkicker.com/PythonBook/)
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php)
